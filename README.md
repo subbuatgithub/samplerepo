@@ -1,7 +1,7 @@
 # samplerepo
-# samplerepo 1
-# samplerepo 2
-# samplerepo 3
-# samplerepo 5
-# samplerepo 19
+# samplerepo A1
+# samplerepo A2
+# samplerepo A3
+# samplerepo A5
+# samplerepo A19
 
